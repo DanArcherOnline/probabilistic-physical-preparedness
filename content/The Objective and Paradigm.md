@@ -1,3 +1,8 @@
+
+# The Paradigm
+
+Probabilistic Physical Preparedness (PPP) is the foundational worldview of this system. It abandons traditional specialization, instead seeing fitness and athleticism through the lens of broad biological adaptability to unpredictable chaos. Under this paradigm, true capability is measured solely by the organism's readiness for the unknown.
+
 # The Objective
 
 > **To maximize the statistical probability of succeeding at any randomized physical task.**
