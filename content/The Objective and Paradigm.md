@@ -13,6 +13,6 @@ We operate in mathematical likelihoods rather than absolutes. Because true physi
 ### "succeeding"
 This establishes a strict, binary metric (Pass/Fail) where the victory condition is dictated entirely by the challenge itself. The only measurement that matters is satisfying the exact requirement defined by the task.
 ### "randomized"
-The parameters of the challenge are entirely unknown. All variables are drawn blindly from an infinite pool of possibilities, strictly eliminating the opportunity for specific preparation.
+The parameters of the challenge are entirely unknown. All variables are drawn blindly from the real-world environments a human is statistically likely to encounter, strictly eliminating the opportunity for specific preparation.
 ### "physical task"
 The intentional expenditure of biological energy to achieve a designated outcome within the physical environment.
