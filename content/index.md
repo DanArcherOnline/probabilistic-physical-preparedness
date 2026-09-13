@@ -15,4 +15,4 @@ This is a working notebook exploring that idea — the paradigm behind it, how i
 
 ---
 
-*This site is a living digital garden — notes here range from settled ideas to early drafts.*](<This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!>)
+*This site is a living digital garden — notes here range from settled ideas to early drafts.*
